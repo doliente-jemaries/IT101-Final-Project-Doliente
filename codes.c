@@ -316,6 +316,6 @@ int main()
     }
 
     printf("\nThank you for using the program!\n");
-  //ilhanan nga na push nani siya
+
     return 0;
 }
